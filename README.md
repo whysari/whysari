@@ -1,8 +1,8 @@
 ### Ragchaa Battsengel
 
-Software Engineer building full-stack web applications, FinTech compliance systems, and cloud/SRE infrastructure.
+Software Engineer building full-stack web applications, FinTech compliance platforms, peer-to-peer digital asset marketplaces, and cloud/SRE infrastructure.
 
-- **Stack:** TypeScript, React, Next.js, Vue 3, Laravel, FastAPI, Python, PHP, PostgreSQL, Redis, Docker, Kubernetes, OpenStack
+- **Stack:** TypeScript, React, Next.js, Vue 3, Laravel, FastAPI, Node.js, Express, Sequelize, Python, PHP, PostgreSQL, Redis, Docker, Kubernetes, OpenStack
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/ragchaa-battsengel-79b6183bb) · [ari.whysari@gmail.com](mailto:ari.whysari@gmail.com)
 
 #### Projects
