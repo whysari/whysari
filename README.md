@@ -11,3 +11,5 @@ Software Engineer building full-stack web applications, FinTech compliance platf
 - **[aegis-ci](https://github.com/whysari/aegis-ci)** — Multi-agent `git worktree` release gate, Python AST security auditor, and PostgreSQL 18 DDL lock analyzer ([live](https://aegis-ci.vercel.app))
 - **[openstack-caracal-multinode](https://github.com/whysari/openstack-caracal-multinode)** — 5-node OpenStack (Caracal) private cloud with Neutron ML2/OVS VXLAN overlays, Nova/KVM, Cinder, and Swift
 - **[jewelry_rcg](https://github.com/whysari/jewelry_rcg)** — VGG-16 + GRU computer vision classification and captioning web service (91.18% CCR)
+- **[hfs-explorer](https://github.com/whysari/hfs-explorer)** — Blazing-fast desktop utility to browse and extract Apple HFS+ (Mac OS Extended) drives on Windows built with Rust, Tauri v2, and React.
+- **[nfsmwo](https://github.com/whysari/nfsmwo)** — Dynamic Save Editor & Career Generator for Need for Speed: Most Wanted (2005) with reverse-engineered EA CRC32 & MD5 hash engine ([live](https://whysari.github.io/nfsmwo/)).
