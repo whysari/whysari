@@ -1,6 +1,6 @@
-# Ragchaa Battsengel
+**Software Engineer** · Systems Programming, Cloud Infrastructure & Full-Stack Web
 
-Software engineer based in Ulaanbaatar, Mongolia. I work across systems programming, cloud infrastructure, and full-stack web applications.
+Based in Ulaanbaatar, Mongolia. Building native desktop tools, private cloud infrastructure, and production web applications.
 
 [LinkedIn](https://www.linkedin.com/in/ragchaa-battsengel-79b6183bb) · [ari.whysari@gmail.com](mailto:ari.whysari@gmail.com)
 
@@ -13,7 +13,6 @@ Software engineer based in Ulaanbaatar, Mongolia. I work across systems programm
 | **[hfs-explorer](https://github.com/whysari/hfs-explorer)** | Windows desktop app to browse and extract files from Apple HFS+ formatted drives and disk images (`.dmg`, `.img`). | `Rust` · `Tauri v2` · `React` |
 | **[openstack-caracal-multinode](https://github.com/whysari/openstack-caracal-multinode)** | Multi-node OpenStack private cloud evolving from a manual Caracal baseline to a containerized **2025.2 (Flamingo) Kolla-Ansible** build across 3 network planes (`ens33` HAProxy/Keepalived VIP, `ens34` VXLAN overlay, `ens32` provider `br-ex`), dual KVM hypervisors, Cinder LVM/iSCSI, and Swift. | `OpenStack` · `Kolla-Ansible` · `OVS/VXLAN` · `KVM` |
 | **[jewelry-vision](https://github.com/whysari/jewelry-vision)** | Computer vision model and web interface for fine-grained jewelry classification (91.18% accuracy) and caption generation using VGG-16 / InceptionV3 encoders with a GRU decoder. | `Python` · `Flask` · `VGG-16` · `GRU` |
-| **[dotfiles](https://github.com/whysari/dotfiles)** | Cross-platform terminal and shell environment for macOS, Windows, and Linux with shared POSIX configs and OS-aware templates. | `Chezmoi` · `Ghostty` · `Zsh/Bash` · `Starship` |
 
 ---
 
